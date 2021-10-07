@@ -1436,6 +1436,16 @@
     mkdirp "^1.0.4"
     rimraf "^3.0.2"
 
+"@playcanvas/observer@^1.1.0":
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/@playcanvas/observer/-/observer-1.1.0.tgz#43d276c5f205d11fd849b7050137b6e293b882d3"
+  integrity sha512-P4R54kLPJxyjE5gSogCNM7eF23F4sN0eu6/YzwRzFYqhJFm3FKC6fQ++vKY+HEY7AyI/XoGoMY4XLMtXKE8/sQ==
+
+"@playcanvas/pcui@^2.1.4":
+  version "2.1.4"
+  resolved "https://registry.yarnpkg.com/@playcanvas/pcui/-/pcui-2.1.4.tgz#c6ffec6dd2df6e44fad30d7b593766dd514717f7"
+  integrity sha512-dAZMokQdGAPmCYBj5Sdh0lhzAm187yiqBX0rbRFf5SDHIXrz4ezgHJyUg7Iu7htr/un8HuA7U0IE1xVKxOOEFw==
+
 "@pmmmwh/react-refresh-webpack-plugin@0.4.3":
   version "0.4.3"
   resolved "https://registry.yarnpkg.com/@pmmmwh/react-refresh-webpack-plugin/-/react-refresh-webpack-plugin-0.4.3.tgz#1eec460596d200c0236bf195b078a5d1df89b766"
